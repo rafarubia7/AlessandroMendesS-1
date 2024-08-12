@@ -41,6 +41,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlessandroMendesS/AlessandroMendesS/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/c8/bd/d4/c8bdd40c608502a8567e795003a863a8.gif"  />
+</div>
 
 ###

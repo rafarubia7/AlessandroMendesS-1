@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7AA2D&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Alessandro+Mendes!;Full-Stack+Developer+in+Training;Happy+Birthday+to+Me!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7AA2D&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Alessandro+Mendes!;Full-Stack+Developer+in+Training;Passionate+about+Coding" alt="Typing SVG" />
 </div>
-<img src="https://raw.githubusercontent.com/AlessandroMendesS/AlessandroMendesS/main/assets/header.png" width="100%">
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="600">
 </p>
@@ -41,11 +40,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlessandroMendesS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-<h2 align="center">🎉 Happy Birthday Message</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=32&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Happy+Birthday%2C+Alessandro!;May+your+code+be+bug-free;and+your+commits+always+green!" alt="Birthday Message" />
-</p>
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
-<img src="https://raw.githubusercontent.com/AlessandroMendesS/AlessandroMendesS/main/assets/footer.png" width

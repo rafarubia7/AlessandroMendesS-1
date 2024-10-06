@@ -27,19 +27,17 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
   <a href="https://github.com/AlessandroMendesS">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlessandroMendesS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlessandroMendesS&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlessandroMendesS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlessandroMendesS&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroMendesS&theme=algolia" alt="AlessandroMendesS" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroMendesS&theme=tokyonight" alt="AlessandroMendesS" />
 </p>
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlessandroMendesS&theme=algolia&column=7" alt="trophy" />
-  </a>
-</p>
+<h2 align="center">🐍 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github.com/AlessandroMendesS/AlessandroMendesS/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 <h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/alessandro-mendes-925621311/" target="_blank">
@@ -59,5 +57,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
-<div align="center">
-  <img src="https://github.com/AlessandroMendesS/AlessandroMendesS/blob/output/github-contribution-grid-snake.sv

@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
@@ -41,8 +43,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/c8/bd/d4/c8bdd40c608502a8567e795003a863a8.gif"  />
-</div>
+<img src="https://raw.githubusercontent.com/AlessandroMendesS/AlessandroMendesS/output/snake.svg" alt="Snake animation" />
 
 ###

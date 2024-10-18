@@ -1,51 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0d47a1&height=120&section=header&text=Alessandro%20Mendes&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Alessandro%20Mendes&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&random=false&width=445&height=55&lines=Full-Stack+Developer+in+Training;Building+the+Future+with+Code)](https://git.io/typing-svg)
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
-  <a href="https://www.linkedin.com/in/alessandro-mendes-925621311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>&nbsp;
-  <a href="mailto:alessandro.mendes123z@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25"/></a>&nbsp;
-  <a href="https://wa.me/5519992874556"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25"/></a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3584E3&center=true&vCenter=true&random=false&width=600&height=70&lines=Full-Stack+Developer+in+Training+%F0%9F%92%BB;Passionate+about+Learning+%F0%9F%8C%B1;Systems+Development+Student+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+  <a href="https://github.com/AlessandroMendesS"><img src="https://github-widgetbox.vercel.app/api/profile?username=AlessandroMendesS&data=followers,repositories,stars,commits&theme=nautilus" width="600" alt="GitHub WidgetBox"></a>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-```js
-const aboutMe = {
-    currentFocus: "Full-Stack Development",
-    education: "Systems Development Student",
-    passiateAbout: ["Web Development", "Clean Code", "Problem Solving"],
-    currentlyLearning: ["TypeScript", "Spring", "MongoDB"],
-};
-```
-
 <div align="center">
-  <h3>Main Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mysql&perline=6" alt="Main Skills"/>
+  <h2>💻 Tech Journey</h2>
+
+  <h3>🎯 Current Skills</h3>
   
-  <h3>Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&perline=6" alt="Tools"/>
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+  <h3>🌱 Currently Learning</h3>
+
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+  <h3>🛠️ Development Tools</h3>
+
+  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <div align="center">
-  <h2></h2> <!-- Spacer -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlessandroMendesS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&icon_color=1a73e8" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroMendesS&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a73e8&ring=1a73e8&fire=1a73e8" alt="GitHub Streak"/>
+  <h2>📊 GitHub Analytics</h2>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlessandroMendesS&theme=react-dark&hide_border=true" width="95%" alt="Contribution Graph"/>
+  
+  <p align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlessandroMendesS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandroMendesS&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroMendesS&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages"/>
+
+  <details>
+    <summary>🏆 GitHub Trophies</summary>
+    <img src="https://github-profile-trophy.vercel.app/?username=AlessandroMendesS&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="Trophy"/>
+  </details>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <div align="center">
-  <h2></h2> <!-- Spacer -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlessandroMendesS&theme=react-dark&hide_border=true&bg_color=0d1117&title_color=1a73e8&color=1a73e8&point=1a73e8&area_color=1a73e8" width="98%" alt="Activity Graph"/>
+  <h2>🤝 Let's Connect</h2>
+  
+  <a href="https://www.linkedin.com/in/alessandro-mendes-925621311/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5519992874556" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:alessandro.mendes123z@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-  <h2></h2> <!-- Spacer -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroMendesS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a73e8" alt="Top Languages"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=AlessandroMendesS&style=for-the-badge&color=3584E3" alt="Profile Views"/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=AlessandroMendesS&style=for-the-badge&color=1a73e8" alt="Profile Views"/>
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:0d47a1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
